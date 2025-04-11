@@ -26,5 +26,4 @@ An interactive Streamlit application that scrapes real-time Redbus data (routes,
 
 ---
 
-## 📁 Project Structure
 
